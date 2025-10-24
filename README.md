@@ -1,4 +1,4 @@
-# Customer Churn Analysis – SQL + Minitab
+# Customer Churn Analysis – SQL 
 
 ## Overview
 Analyzed 10,000+ banking customer records to identify churn patterns and recommend targeted retention strategies.
@@ -23,3 +23,4 @@ Recommended interventions could save €55M+ in annual deposits.
 
 ---
 📊 *Developed by Aman Thakur | [LinkedIn](https://www.linkedin.com/in/amanthakur/)
+
